@@ -1,10 +1,11 @@
 # Cflex
 
-A new Flutter project.
+Cflex is a game that test your visual reflexes using colors!
 
+Users must tap the corresponding color in text shown before the time runs out.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Cflex is a flutter project. To get started, you must clone the repo and have flutter installed.
 
 A few resources to get you started if this is your first Flutter project:
 
